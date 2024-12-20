@@ -1,4 +1,4 @@
-# 🍽️ Dishcovery - Restaurant Recommendation System
+# 🍽️ Dishcovery - Restaurant Recommendation and Customer Segmentation System
 
 ## 📚 Project Overview
 
