@@ -64,8 +64,24 @@ Includes:
 Contains:
 
 - `st_link.py`: The code for the Dishcovery application. This Streamlit app allows users to access the two core services:
-  1. Personalized restaurant recommendations. 🍽️
-  2. Customer segmentation insights for aspiring restaurant entrepreneurs. 🏢
+  #### Personalized Restaurant Recommendations 🍽️
+
+  To access this feature, select "I'm a Dishcoverer" in the upper select tab. Inside, you will find two options:
+
+  - **Dishcovery Lite**: A quick and straightforward restaurant recommendation system. 🕒
+  - **Dishcovery**: A detailed system where you input the characteristics of your restaurant and the demographic profile of people similar to you. This allows you to discover which individuals with your profile liked or disliked the selected restaurant. 🔍🍽️
+
+  #### Customer Segmentation Insights for Aspiring Restaurant Entrepreneurs 🏢
+
+  To use this feature, select "I'm a Dishtributor" in the upper select tab, then click on "Segmentoid."
+
+  How it works:
+
+  - Input your restaurant's characteristics and choose one of three segmentation modes:
+
+    - **Estrict Mode**: Displays customer profiles and demographics for individuals who were **Satisfied** with similar restaurants. 😊
+    - **Relaxed Mode**: Includes profiles for customers who were either **Satisfied** or **Neutral**. 😐
+    - **Avoidance Mode**: Highlights profiles of customers who were **Unsatisfied**. 😡
 
 ### 5. Root Directory 📁
 Includes:
